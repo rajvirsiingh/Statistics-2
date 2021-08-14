@@ -5,9 +5,9 @@
 #              and convert the entered string either into toGGLe or 
 #              Sentence, UPPER, lower, Title case
 # 
-# Copyright: MD.ASHFAK US SALEHIN Â© 2021-10-08 
+# Copyright: Rajvir Singh Â© 2021-10-08 
 # 
-# Author: MD.ASHFAK US SALEHIN
+# Author: Rajvir Singh
 # 
 # Version: 1.00	     2021-10-08  Baseline
 
