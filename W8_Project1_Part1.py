@@ -1,13 +1,13 @@
 #
 # Title:Project 1: Correlation in Python.
 # 
-# Description: A tikinter application: This code extracts the datates from an excel file 
+# Description: A tkinter application: This code extracts the datates from an excel file 
 #              and returns the corellation using three different method. It also has a panel
 #              to represent the datas visually.
 # 
-# Copyright: MD.ASHFAK US SALEHIN Â© 2021-12-08 
+# Copyright: Rajvir Singh Â© 2021-12-08 
 # 
-# Author: MD.ASHFAK US SALEHIN
+# Author: Rajvir Singh
 # 
 # Version: 1.00	2021-12-08 Baseline computes coorelation in two methods and sgows graphical 
 #                          representation of data in two ways
